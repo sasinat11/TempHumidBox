@@ -21,7 +21,7 @@
 <p>ขนาด : 10mm. x 15mm.<p>
           
 <p>ขั้วต่อไปเลี้ยงแบบกลม<p>
-<img src="ref/3.7.png" width="300">
+<img src="ref/3.7.PNG" width="300">
 <p>ขนาด : 3.7 mm.<p>
   
 <p>น๊อต M2-M3<p>
